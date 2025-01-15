@@ -1,2 +1,2 @@
 # musixPortfolio
-Website Related to Muisc on React
+Website Related to Muisc on React and Tailwind
